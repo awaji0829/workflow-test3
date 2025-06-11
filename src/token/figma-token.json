@@ -29,7 +29,7 @@
     "background": {
       "base": {
         "$type": "color",
-        "$value": "#0C1B33"
+        "$value": "#ffA500"
       },
       "surface": {
         "$type": "color",
