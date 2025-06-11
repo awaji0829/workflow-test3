@@ -4,7 +4,7 @@
       "color": {
         "primary": {
           "$type": "color",
-          "$value": "#ffA500"
+          "$value": "#0C1B33"
         },
         "secondary": {
           "$type": "color",
@@ -29,7 +29,7 @@
     "background": {
       "base": {
         "$type": "color",
-        "$value": "#ffA500"
+        "$value": "#0C1B33"
       },
       "surface": {
         "$type": "color",
