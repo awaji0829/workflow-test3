@@ -3,264 +3,264 @@
     "core": {
       "color": {
         "primary": {
-          "$type": "color",
-          "$value": "#0C1B33"
+          "value": "#0C1B33",
+          "type": "other"
         },
         "secondary": {
-          "$type": "color",
-          "$value": "#152A4F"
+          "value": "#152A4F",
+          "type": "other"
         }
       }
     },
     "text": {
       "primary": {
-        "$type": "color",
-        "$value": "#FFFFFF"
+        "value": "#FFFFFF",
+        "type": "other"
       },
       "secondary": {
-        "$type": "color",
-        "$value": "#A0B4D4"
+        "value": "#A0B4D4",
+        "type": "other"
       },
       "muted": {
-        "$type": "color",
-        "$value": "#6A7A99"
+        "value": "#6A7A99",
+        "type": "other"
       }
     },
     "background": {
       "base": {
-        "$type": "color",
-        "$value": "#0C1B33"
+        "value": "#0C1B33",
+        "type": "other"
       },
       "surface": {
-        "$type": "color",
-        "$value": "#101E3C"
+        "value": "#101E3C",
+        "type": "other"
       },
       "card": {
-        "$type": "color",
-        "$value": "#101E3C"
+        "value": "#101E3C",
+        "type": "other"
       }
     },
     "border": {
       "divider": {
-        "$type": "color",
-        "$value": "#2A3D5F"
+        "value": "#2A3D5F",
+        "type": "other"
       },
       "button": {
-        "$type": "color",
-        "$value": "#24406E"
+        "value": "#24406E",
+        "type": "other"
       }
     },
     "accent": {
       "cta": {
-        "$type": "color",
-        "$value": "#00F07D"
+        "value": "#00F07D",
+        "type": "other"
       },
       "brandSub": {
-        "$type": "color",
-        "$value": "#00C66B"
+        "value": "#00C66B",
+        "type": "other"
       }
     },
     "chart": {
       "line": {
-        "$type": "color",
-        "$value": "#00D264"
+        "value": "#00D264",
+        "type": "other"
       },
       "bar1": {
-        "$type": "color",
-        "$value": "#00D264"
+        "value": "#00D264",
+        "type": "other"
       },
       "bar2": {
-        "$type": "color",
-        "$value": "#00A3FF"
+        "value": "#00A3FF",
+        "type": "other"
       },
       "bar3": {
-        "$type": "color",
-        "$value": "#004EFF"
+        "value": "#004EFF",
+        "type": "other"
       },
       "bar4": {
-        "$type": "color",
-        "$value": "#1E90FF"
+        "value": "#1E90FF",
+        "type": "other"
       }
     },
     "tab": {
       "selected": {
-        "$type": "color",
-        "$value": "#00F07D"
+        "value": "#00F07D",
+        "type": "other"
       },
       "unselected": {
-        "$type": "color",
-        "$value": "#2B3F61"
+        "value": "#2B3F61",
+        "type": "other"
       }
     },
     "button": {
       "default": {
-        "$type": "color",
-        "$value": "#1C2F4F"
+        "value": "#1C2F4F",
+        "type": "other"
       },
       "hover": {
-        "$type": "color",
-        "$value": "#24406E"
+        "value": "#24406E",
+        "type": "other"
       },
       "active": {
-        "$type": "color",
-        "$value": "#00F07D"
+        "value": "#00F07D",
+        "type": "other"
       }
     },
     "radius": {
       "xs": {
-        "$type": "borderRadius",
-        "$value": "4px"
+        "value": "4px",
+        "type": "other"
       },
       "sm": {
-        "$type": "borderRadius",
-        "$value": "6px"
+        "value": "6px",
+        "type": "other"
       },
       "md": {
-        "$type": "borderRadius",
-        "$value": "8px"
+        "value": "8px",
+        "type": "other"
       },
       "lg": {
-        "$type": "borderRadius",
-        "$value": "12px"
+        "value": "12px",
+        "type": "other"
       }
     },
     "stroke": {
       "width-divider": {
-        "$type": "borderWidth",
-        "$value": "1px"
+        "value": "1px",
+        "type": "other"
       }
     },
     "elevation": {
       "none": {
-        "$type": "boxShadow",
-        "$value": "0"
+        "value": "0",
+        "type": "other"
       },
       "low": {
-        "$type": "boxShadow",
-        "$value": "0 1px 2px rgba(0,0,0,0.1)"
+        "value": "0 1px 2px rgba(0,0,0,0.1)",
+        "type": "other"
       },
       "med": {
-        "$type": "boxShadow",
-        "$value": "0 2px 4px rgba(0,0,0,0.15)"
+        "value": "0 2px 4px rgba(0,0,0,0.15)",
+        "type": "other"
       }
     },
     "size": {
       "height": {
         "sm": {
-          "$type": "sizing",
-          "$value": "40px"
+          "value": "40px",
+          "type": "other"
         },
         "md": {
-          "$type": "sizing",
-          "$value": "48px"
+          "value": "48px",
+          "type": "other"
         },
         "lg": {
-          "$type": "sizing",
-          "$value": "56px"
+          "value": "56px",
+          "type": "other"
         }
       },
       "card": {
         "min": {
-          "$type": "sizing",
-          "$value": "320px"
+          "value": "320px",
+          "type": "other"
         },
         "max": {
-          "$type": "sizing",
-          "$value": "480px"
+          "value": "480px",
+          "type": "other"
         }
       }
     },
     "spacing": {
       "4": {
-        "$type": "spacing",
-        "$value": "4px"
+        "value": "4px",
+        "type": "other"
       },
       "8": {
-        "$type": "spacing",
-        "$value": "8px"
+        "value": "8px",
+        "type": "other"
       },
       "12": {
-        "$type": "spacing",
-        "$value": "12px"
+        "value": "12px",
+        "type": "other"
       },
       "16": {
-        "$type": "spacing",
-        "$value": "16px"
+        "value": "16px",
+        "type": "other"
       },
       "24": {
-        "$type": "spacing",
-        "$value": "24px"
+        "value": "24px",
+        "type": "other"
       },
       "32": {
-        "$type": "spacing",
-        "$value": "32px"
+        "value": "32px",
+        "type": "other"
       }
     },
     "typography": {
       "heading": {
         "fontFamily": {
-          "$type": "fontFamily",
-          "$value": "Pretendard"
+          "value": "Pretendard",
+          "type": "other"
         },
         "fontWeight": {
-          "$type": "fontWeight",
-          "$value": "700"
+          "value": "700",
+          "type": "other"
         },
         "lineHeight": {
-          "$type": "lineHeight",
-          "$value": "1.5"
+          "value": "1.5",
+          "type": "other"
         },
         "letterSpacing": {
-          "$type": "letterSpacing",
-          "$value": "0.2px"
+          "value": "0.2px",
+          "type": "other"
         },
         "fontSize": {
-          "$type": "fontSize",
-          "$value": "24px"
+          "value": "24px",
+          "type": "other"
         }
       },
       "body": {
         "fontFamily": {
-          "$type": "fontFamily",
-          "$value": "Pretendard"
+          "value": "Pretendard",
+          "type": "other"
         },
         "fontWeight": {
-          "$type": "fontWeight",
-          "$value": "400"
+          "value": "400",
+          "type": "other"
         },
         "lineHeight": {
-          "$type": "lineHeight",
-          "$value": "1.5"
+          "value": "1.5",
+          "type": "other"
         },
         "letterSpacing": {
-          "$type": "letterSpacing",
-          "$value": "0.2px"
+          "value": "0.2px",
+          "type": "other"
         },
         "fontSize": {
-          "$type": "fontSize",
-          "$value": "16px"
+          "value": "16px",
+          "type": "other"
         }
       },
       "label": {
         "fontFamily": {
-          "$type": "fontFamily",
-          "$value": "Pretendard"
+          "value": "Pretendard",
+          "type": "other"
         },
         "fontWeight": {
-          "$type": "fontWeight",
-          "$value": "500"
+          "value": "500",
+          "type": "other"
         },
         "lineHeight": {
-          "$type": "lineHeight",
-          "$value": "1.5"
+          "value": "1.5",
+          "type": "other"
         },
         "letterSpacing": {
-          "$type": "letterSpacing",
-          "$value": "0.2px"
+          "value": "0.2px",
+          "type": "other"
         },
         "fontSize": {
-          "$type": "fontSize",
-          "$value": "12px"
+          "value": "12px",
+          "type": "other"
         }
       }
     }
@@ -268,100 +268,100 @@
   "light": {
     "fg": {
       "default": {
-        "$type": "color",
-        "$value": "{colors.black}"
+        "value": "{colors.black}",
+        "type": "color"
       },
       "muted": {
-        "$type": "color",
-        "$value": "{colors.gray.700}"
+        "value": "{colors.gray.700}",
+        "type": "color"
       },
       "subtle": {
-        "$type": "color",
-        "$value": "{colors.gray.500}"
+        "value": "{colors.gray.500}",
+        "type": "color"
       }
     },
     "bg": {
       "default": {
-        "$type": "color",
-        "$value": "{colors.white}"
+        "value": "{colors.white}",
+        "type": "color"
       },
       "muted": {
-        "$type": "color",
-        "$value": "{colors.gray.100}"
+        "value": "{colors.gray.100}",
+        "type": "color"
       },
       "subtle": {
-        "$type": "color",
-        "$value": "{colors.gray.200}"
+        "value": "{colors.gray.200}",
+        "type": "color"
       }
     },
     "accent": {
       "default": {
-        "$type": "color",
-        "$value": "{colors.indigo.400}"
+        "value": "{colors.indigo.400}",
+        "type": "color"
       },
       "onAccent": {
-        "$type": "color",
-        "$value": "{colors.white}"
+        "value": "{colors.white}",
+        "type": "color"
       },
       "bg": {
-        "$type": "color",
-        "$value": "{colors.indigo.200}"
+        "value": "{colors.indigo.200}",
+        "type": "color"
       }
     },
     "shadows": {
       "default": {
-        "$type": "color",
-        "$value": "{colors.gray.900}"
+        "value": "{colors.gray.900}",
+        "type": "color"
       }
     }
   },
   "dark": {
     "fg": {
       "default": {
-        "$type": "color",
-        "$value": "{colors.white}"
+        "value": "{colors.white}",
+        "type": "color"
       },
       "muted": {
-        "$type": "color",
-        "$value": "{colors.gray.300}"
+        "value": "{colors.gray.300}",
+        "type": "color"
       },
       "subtle": {
-        "$type": "color",
-        "$value": "{colors.gray.500}"
+        "value": "{colors.gray.500}",
+        "type": "color"
       }
     },
     "bg": {
       "default": {
-        "$type": "color",
-        "$value": "{colors.gray.900}"
+        "value": "{colors.gray.900}",
+        "type": "color"
       },
       "muted": {
-        "$type": "color",
-        "$value": "{colors.gray.700}"
+        "value": "{colors.gray.700}",
+        "type": "color"
       },
       "subtle": {
-        "$type": "color",
-        "$value": "{colors.gray.600}"
+        "value": "{colors.gray.600}",
+        "type": "color"
       }
     },
     "accent": {
       "default": {
-        "$type": "color",
-        "$value": "{colors.indigo.600}"
+        "value": "{colors.indigo.600}",
+        "type": "color"
       },
       "onAccent": {
-        "$type": "color",
-        "$value": "{colors.white}"
+        "value": "{colors.white}",
+        "type": "color"
       },
       "bg": {
-        "$type": "color",
-        "$value": "{colors.indigo.800}"
+        "value": "{colors.indigo.800}",
+        "type": "color"
       }
     },
     "shadows": {
       "default": {
-        "$type": "color",
-        "$value": "rgba({colors.black}, 0.3)"
+        "value": "rgba({colors.black}, 0.3)",
+        "type": "color"
       }
     }
   },
@@ -369,41 +369,40 @@
     "button": {
       "primary": {
         "background": {
-          "$type": "color",
-          "$value": "{accent.default}"
+          "value": "{accent.default}",
+          "type": "color"
         },
         "text": {
-          "$type": "color",
-          "$value": "{accent.onAccent}"
+          "value": "{accent.onAccent}",
+          "type": "color"
         }
       },
       "borderRadius": {
-        "$type": "borderRadius",
-        "$value": "{borderRadius.lg}"
+        "value": "{borderRadius.lg}",
+        "type": "borderRadius"
       },
       "borderWidth": {
-        "$type": "borderWidth",
-        "$value": "{dimension.sm}"
+        "value": "{dimension.sm}",
+        "type": "borderWidth"
       }
     },
     "card": {
       "borderRadius": {
-        "$type": "borderRadius",
-        "$value": "{borderRadius.lg}"
+        "value": "{borderRadius.lg}",
+        "type": "borderRadius"
       },
       "background": {
-        "$type": "color",
-        "$value": "{bg.default}"
+        "value": "{bg.default}",
+        "type": "color"
       },
       "padding": {
-        "$type": "dimension",
-        "$value": "{dimension.md}"
+        "value": "{dimension.md}",
+        "type": "dimension"
       }
     },
     "boxShadow": {
       "default": {
-        "$type": "boxShadow",
-        "$value": [
+        "value": [
           {
             "x": 5,
             "y": 5,
@@ -420,67 +419,68 @@
             "blur": 5,
             "$type": "innerShadow"
           }
-        ]
+        ],
+        "type": "boxShadow"
       }
     },
     "typography": {
       "H1": {
         "Bold": {
-          "$type": "typography",
-          "$value": {
+          "value": {
             "fontFamily": "{fontFamilies.heading}",
             "fontWeight": "{fontWeights.headingBold}",
             "lineHeight": "{lineHeights.heading}",
             "fontSize": "{fontSizes.h1}",
             "paragraphSpacing": "{paragraphSpacing.h1}",
             "letterSpacing": "{letterSpacing.decreased}"
-          }
+          },
+          "type": "typography"
         },
         "Regular": {
-          "$type": "typography",
-          "$value": {
+          "value": {
             "fontFamily": "{fontFamilies.heading}",
             "fontWeight": "{fontWeights.headingRegular}",
             "lineHeight": "{lineHeights.heading}",
             "fontSize": "{fontSizes.h1}",
             "paragraphSpacing": "{paragraphSpacing.h1}",
             "letterSpacing": "{letterSpacing.decreased}"
-          }
+          },
+          "type": "typography"
         }
       },
       "H2": {
         "Bold": {
-          "$type": "typography",
-          "$value": {
+          "value": {
             "fontFamily": "{fontFamilies.heading}",
             "fontWeight": "{fontWeights.headingBold}",
             "lineHeight": "{lineHeights.heading}",
             "fontSize": "{fontSizes.h2}",
             "paragraphSpacing": "{paragraphSpacing.h2}",
             "letterSpacing": "{letterSpacing.decreased}"
-          }
+          },
+          "type": "typography"
         },
         "Regular": {
-          "$type": "typography",
-          "$value": {
+          "value": {
             "fontFamily": "{fontFamilies.heading}",
             "fontWeight": "{fontWeights.headingRegular}",
             "lineHeight": "{lineHeights.heading}",
             "fontSize": "{fontSizes.h2}",
             "paragraphSpacing": "{paragraphSpacing.h2}",
             "letterSpacing": "{letterSpacing.decreased}"
-          }
+          },
+          "type": "typography"
         }
       },
       "Body": {
-        "$type": "typography",
-        "$value": {
+        "value": {
           "fontFamily": "{fontFamilies.body}",
           "fontWeight": "{fontWeights.bodyRegular}",
           "lineHeight": "{lineHeights.heading}",
           "fontSize": "{fontSizes.body}",
           "paragraphSpacing": "{paragraphSpacing.h2}"
-        }
+        },
+        "type": "typography"
       }
     }
   },
