@@ -3,106 +3,106 @@
     "core": {
       "color": {
         "primary": {
-          "$type": "other",
-          "$value": "#0C1B33"
+          "$type": "color",
+          "$value": "#ffA500"
         },
         "secondary": {
-          "$type": "other",
+          "$type": "color",
           "$value": "#152A4F"
         }
       }
     },
     "text": {
       "primary": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#FFFFFF"
       },
       "secondary": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#A0B4D4"
       },
       "muted": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#6A7A99"
       }
     },
     "background": {
       "base": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#0C1B33"
       },
       "surface": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#101E3C"
       },
       "card": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#101E3C"
       }
     },
     "border": {
       "divider": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#2A3D5F"
       },
       "button": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#24406E"
       }
     },
     "accent": {
       "cta": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#00F07D"
       },
       "brandSub": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#00C66B"
       }
     },
     "chart": {
       "line": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#00D264"
       },
       "bar1": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#00D264"
       },
       "bar2": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#00A3FF"
       },
       "bar3": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#004EFF"
       },
       "bar4": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#1E90FF"
       }
     },
     "tab": {
       "selected": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#00F07D"
       },
       "unselected": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#2B3F61"
       }
     },
     "button": {
       "default": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#1C2F4F"
       },
       "hover": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#24406E"
       },
       "active": {
-        "$type": "other",
+        "$type": "color",
         "$value": "#00F07D"
       }
     },
